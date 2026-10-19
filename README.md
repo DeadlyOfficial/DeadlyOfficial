@@ -10,9 +10,9 @@ Developing bots, building useful tools, and sharing open-source projects with th
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=DeadlyOfficial&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/DeadlyOfficial?style=flat-square&color=58A6FF&label=Followers)
-![Stars](https://img.shields.io/github/stars/DeadlyOfficial?style=flat-square&color=58A6FF&label=Stars)
+![](https://komarev.com/ghpvc/?username=DeadlyOfficial&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
+![](https://img.shields.io/github/followers/DeadlyOfficial?style=flat-square&color=58A6FF&label=Followers)
+![](https://img.shields.io/github/stars/DeadlyOfficial?style=flat-square&color=58A6FF&label=Stars)
 
 <br />
 
@@ -32,20 +32,22 @@ Developing bots, building useful tools, and sharing open-source projects with th
 ---
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,lua,rust,cpp,c,cs,java,go,php,ruby,bash,html,css,nodejs,discordjs,react,mongodb,mysql,git,github,vscode&perline=11&theme=dark" alt="Languages and tools" />
-</p>
+<div align="center">
+
+![](https://skillicons.dev/icons?i=python,js,ts,lua,rust,cpp,c,cs,java,go,php,ruby,bash,html,css,nodejs,discordjs,react,mongodb,mysql,git,github,vscode&perline=11&theme=dark)
+
+</div>
 
 ---
 
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DeadlyOfficial&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyOfficial&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
-</p>
+<div align="center">
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=DeadlyOfficial&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyOfficial&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
 
-<p align="center">
-  <a href="https://github.com/DeadlyOfficial?tab=repositories">👉 <b>Explore my projects</b> 👈</a>
-</p>
+<br /><br />
+
+👉 **[Explore my projects](https://github.com/DeadlyOfficial?tab=repositories)** 👈
+
+</div>
