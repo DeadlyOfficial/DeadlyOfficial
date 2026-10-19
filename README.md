@@ -1,55 +1,21 @@
-<div align="center">
-
-# Hey, I'm Deadly Official 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Discord+Bot+Developer;Tool+Creator+%26+Programmer;AI+Skills+Writer;Building+%26+Sharing+Projects)](https://git.io/typing-svg)
-
-**Developer · Discord Bot Developer · Tool Creator · AI Skills Writer**
-
-Developing bots, building useful tools, and sharing open-source projects.
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=DeadlyOfficial&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/DeadlyOfficial?style=flat-square&color=58A6FF&label=Followers" alt="Followers" />
-</p>
-
-<a href="https://github.com/DeadlyOfficial">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://github.com/DeadlyOfficial?tab=repositories">
-  <img src="https://img.shields.io/badge/My_Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-</a>
-
-</div>
-
----
-
-
-- 🤖 **Discord Bots** — Custom bots, slash commands, and integrations.
-- ⚙️ **Tools & Automation** — Scripts, utilities, and custom solutions.
-- 🧠 **AI Skills** — Custom skills, instructions, and prompt frameworks.
-- 📦 **Open Source** — Sharing projects, code, and useful resources.
-
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,lua,rust,cpp,c,cs,java,go,php,ruby,bash,html,css,nodejs,discordjs,react,mongodb,mysql,git,github,vscode&perline=11&theme=dark" alt="Languages and technologies" />
-</div>
-
----
-
+# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Wraiths"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=WraithsDev&color=191717">
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DeadlyOfficial&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats including stars earned" />
+<p align="center">
+ <a href="https://discord.com/users/843136836947410945" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/WraithsDev" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ 
+## About Me
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyOfficial&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
+<samp>
+• Let me introduce myself, I'm Enes. I'm 21 years old. I'm a versatile developer with a deep passion for all aspects of software. Every day I develop more and more with new ideas and new projects<br /><br />
 
-</div>
+• You Should Come By [Here](https://discord.gg/vsc) <br />
+• My [Website](https://www.wraiths.dev)
 
----
+</samp>
 
-<div align="center">
+## Technologies I use
 
-<a href="https://github.com/DeadlyOfficial?tab=repositories"><b>Explore My Repositories →</b></a>
-
-</div>
+<img width="40%" align="center" src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb&perline=7"> örnek bu
