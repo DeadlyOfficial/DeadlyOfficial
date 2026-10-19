@@ -1,19 +1,52 @@
-<img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Wraiths"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=WraithsDev&color=191717">
+ <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=DEADLY+OFFICIAL;Developer+%7C+Bot+Creator;Tools+%26+Automation;AI+Skills+%26+Open+Source" alt="DeadlyOfficial typing animation" />
+
+**Developer · Bot Creator · Automation Enthusiast**
+
+Building useful tools, Discord bots and projects with clean, practical code.
+
+[![GitHub](https://img.shields.io/badge/GitHub-DeadlyOfficial-181717?style=flat-square&logo=github)](https://github.com/DeadlyOfficial)
+[![Followers](https://img.shields.io/github/followers/DeadlyOfficial?style=flat-square&logo=github&label=Followers)](https://github.com/DeadlyOfficial?tab=followers)
+[![Stars](https://img.shields.io/github/stars/DeadlyOfficial?style=flat-square&logo=github&label=Stars)](https://github.com/DeadlyOfficial?tab=repositories)
+
+</div>
+
+---
+
+
+- Developing **Discord bots, scripts, tools and automation systems**.
+- Exploring AI workflows, skills, prompts and development environments.
+- Working with different programming languages and technologies.
+- Interested in practical projects, clean code and open-source development.
+
 
 <div align="center">
 
-<p align="center">
- <a href="https://discord.com/users/843136836947410945" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/WraithsDev" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
- 
+<img src="https://skillicons.dev/icons?i=python,js,ts,lua,rust,cpp,c,cs,java,go,php,ruby,bash,html,css,nodejs,discordjs,react,mongodb,mysql,git,github,vscode&perline=8" alt="Technologies and tools" />
 
-<samp>
-• Let me introduce myself, I'm Enes. I'm 21 years old. I'm a versatile developer with a deep passion for all aspects of software. Every day I develop more and more with new ideas and new projects<br /><br />
-
-• You Should Come By [Here](https://discord.gg/vsc) <br />
-• My [Website](https://www.wraiths.dev)
-
-</samp>
+</div>
 
 
-<img width="40%" align="center" src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb&perline=7">
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DeadlyOfficial&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="DeadlyOfficial GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyOfficial&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used programming languages" />
+
+</div>
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeadlyOfficial&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity" />
+
+</div>
+
+<div align="center">
+
+**Thanks for visiting my profile.**
+
+<sub>Build something useful. Keep improving.</sub>
+
+</div>
