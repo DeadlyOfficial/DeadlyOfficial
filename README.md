@@ -11,7 +11,9 @@ Developing bots, building useful tools, and sharing open-source projects with th
 <br />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeadlyOfficial&style=flat-square&color=58A6FF&label=TOTAL+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/DeadlyOfficial">
+    <img src="https://profile-counter.glitch.me/DeadlyOfficial/count.svg" alt="Profile Views" />
+  </a>
   <img src="https://img.shields.io/github/followers/DeadlyOfficial?style=flat-square&color=58A6FF&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/DeadlyOfficial?style=flat-square&color=58A6FF&label=Total+Stars" alt="Total Stars" />
 </p>
