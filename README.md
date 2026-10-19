@@ -1,21 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+DEADLY.;Discord+Bot+Developer.;Tools+%26+Software+Developer.;Turning+Ideas+Into+Code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+DEADLY.;Discord+Bot+Developer.;Tool+Creator+%26+Programmer.;Building+%26+Sharing+Projects." alt="Typing SVG" />
 
-**Developer • Discord Bots • Tool Creator**
+**Developer · Discord Bot Developer · Tool Creator**
 
-<img src="https://komarev.com/ghpvc/?username=DeadlyOfficialE&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/DeadlyOfficialE?style=flat-square&color=58A6FF&label=Followers" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/DeadlyOfficialE?style=flat-square&color=58A6FF&label=Total%20Stars" alt="GitHub stars" />
+Developing bots, building useful tools, and sharing projects with the community.
+
+<img src="https://komarev.com/ghpvc/?username=DeadlyOfficial&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/DeadlyOfficial?style=flat-square&color=58A6FF&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/stars/DeadlyOfficial?style=flat-square&color=58A6FF&label=Stars" alt="Stars" />
+
+<a href="https://github.com/DeadlyOfficial"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/DeadlyOfficial?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
 ---
 
 
-- 🤖 Discord bots & custom bot systems
-- ⚙️ Developer tools, scripts & automation
-- 📦 Open-source projects & code sharing
+- 🤖 Discord bot development and custom bot systems
+- ⚙️ Tools, scripts and automation
+- 📦 Code sharing and software projects
 
 
 <div align="center">
@@ -24,14 +29,12 @@
 
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=DeadlyOfficialE&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyOfficialE&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=DeadlyOfficial&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyOfficial&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
 </div>
 
 <div align="center">
 
-<a href="https://github.com/DeadlyOfficialE?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-</a>
+<a href="https://github.com/DeadlyOfficial?tab=repositories">Explore my projects →</a>
 
 </div>
