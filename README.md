@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Deadly Official.;Discord+Bot+Developer.;Tool+Creator+%26+Programmer.;AI+Skills+Writer.;Building+%26+Sharing+Projects." alt="Typing SVG" />
+# Hey, I'm Deadly Official 👋
 
-<h3>Developer · Discord Bot Developer · Tool Creator · AI Skills Writer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Discord+Bot+Developer;Tool+Creator+%26+Programmer;AI+Skills+Writer;Building+%26+Sharing+Projects)](https://git.io/typing-svg)
 
-<p>Developing bots, building useful tools, and sharing open-source projects with the community.</p>
+**Developer · Discord Bot Developer · Tool Creator · AI Skills Writer**
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=DeadlyOfficial&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/DeadlyOfficial?style=flat-square&color=58A6FF&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/DeadlyOfficial?style=flat-square&color=58A6FF&label=Stars" alt="Stars" />
-</p>
+Developing bots, building useful tools, and sharing open-source projects with the community.
 
-<p>
-  <a href="https://github.com/DeadlyOfficial"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/DeadlyOfficial?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-</p>
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=DeadlyOfficial&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/DeadlyOfficial?style=flat-square&color=58A6FF&label=Followers)
+![Stars](https://img.shields.io/github/stars/DeadlyOfficial?style=flat-square&color=58A6FF&label=Stars)
+
+<br />
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeadlyOfficial)
+[![Repositories](https://img.shields.io/badge/Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeadlyOfficial?tab=repositories)
 
 </div>
 
@@ -30,20 +32,20 @@
 ---
 
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,lua,rust,cpp,c,cs,java,go,php,ruby,bash,html,css,nodejs,discordjs,react,mongodb,mysql,git,github,vscode&perline=11&theme=dark" alt="Languages and tools" />
-</div>
+</p>
 
 ---
 
 
-<div align="center">
+<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=DeadlyOfficial&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyOfficial&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
-</div>
+</p>
 
-<br />
+---
 
-<div align="center">
-  <a href="https://github.com/DeadlyOfficial?tab=repositories"><strong>Explore my projects →</strong></a>
-</div>
+<p align="center">
+  <a href="https://github.com/DeadlyOfficial?tab=repositories">👉 <b>Explore my projects</b> 👈</a>
+</p>
