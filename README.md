@@ -10,14 +10,16 @@ Developing bots, building useful tools, and sharing open-source projects with th
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=DeadlyOfficial&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/DeadlyOfficial?style=flat-square&color=58A6FF&label=Followers)
-![](https://img.shields.io/github/stars/DeadlyOfficial?style=flat-square&color=58A6FF&label=Stars)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeadlyOfficial&style=flat-square&color=58A6FF&label=TOTAL+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DeadlyOfficial?style=flat-square&color=58A6FF&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/DeadlyOfficial?style=flat-square&color=58A6FF&label=Total+Stars" alt="Total Stars" />
+</p>
 
-<br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeadlyOfficial)
-[![Repositories](https://img.shields.io/badge/Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeadlyOfficial?tab=repositories)
+<p align="center">
+  <a href="https://github.com/DeadlyOfficial"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/DeadlyOfficial?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+</p>
 
 </div>
 
@@ -32,22 +34,20 @@ Developing bots, building useful tools, and sharing open-source projects with th
 ---
 
 
-<div align="center">
-
-![](https://skillicons.dev/icons?i=python,js,ts,lua,rust,cpp,c,cs,java,go,php,ruby,bash,html,css,nodejs,discordjs,react,mongodb,mysql,git,github,vscode&perline=11&theme=dark)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,lua,rust,cpp,c,cs,java,go,php,ruby,bash,html,css,nodejs,discordjs,react,mongodb,mysql,git,github,vscode&perline=11&theme=dark" alt="Languages and tools" />
+</p>
 
 ---
 
 
-<div align="center">
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DeadlyOfficial&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyOfficial&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
+</p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=DeadlyOfficial&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyOfficial&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
+---
 
-<br /><br />
-
-👉 **[Explore my projects](https://github.com/DeadlyOfficial?tab=repositories)** 👈
-
-</div>
+<p align="center">
+  <a href="https://github.com/DeadlyOfficial?tab=repositories">👉 <b>Explore my projects</b> 👈</a>
+</p>
