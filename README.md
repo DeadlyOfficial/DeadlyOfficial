@@ -39,8 +39,6 @@ Building useful tools, Discord bots and projects with clean, practical code.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeadlyOfficial&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity" />
-
 </div>
 
 <div align="center">
